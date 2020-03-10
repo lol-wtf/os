@@ -1,0 +1,2 @@
+CALC X,Y
+CALC P,Q,&OP=SUB
